@@ -1,0 +1,5 @@
+google-adk==2.11.0
+google-cloud-bigquery>=3.40,<4
+google-auth>=2.0
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
